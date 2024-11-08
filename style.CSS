@@ -1,0 +1,38 @@
+body {
+	color: rebeccapurple;
+	font-family:Playfair;
+}
+p{text-align: left;}
+h1{text-align:centre;
+	color: yellow;
+}
+.first {text-align: left;}
+h2{text-align: left;
+	color: yellow;
+}
+h3{text-align: left;
+	color: yellow;
+}
+h4{text-align: left;
+	color: yellow;
+}
+h5{text-align: left;
+	color: yellow;
+}
+dt{text-align: left;
+	color: white;
+}
+table,th,td{border:1px solid black;
+	width: 50%;
+}
+nav{text-align:right;
+	justify-content:center;
+	padding:o;
+	margin:o;
+	font-weight: bold;
+}
+
+a{
+		color: black;
+
+}
