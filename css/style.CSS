@@ -1,7 +1,7 @@
 body {
 	color: green;
 	font-family:Playfair;
-	padding:20px;
+	padding: 20px;
 }
 p{text-align: left;}
 h1{text-align:centre;
@@ -24,7 +24,7 @@ dt{text-align: left;
 	color: light green;
 }
 table,th,td{border:1px solid black;
-	width:50%;
+	width: 50%;
 }
 nav{text-align:right;
 	justify-content:center;
@@ -32,36 +32,15 @@ nav{text-align:right;
 	margin:0px;
 	font-weight: bold;}
 .project{
-	background-color: green;
+	background-color: white;
 	colour:#333;
 	display: flex;
 	gap:15px;
-	padding:15px;
+	padding: 15px;
 	margin:15px;
 }
 .project h2{
-color: blue;
-margin-bottom:8px;
-}
-.project p{
-color: red;
-margin-bottom:10px;
-}
-.project-content {
-	flex:
-}
-.project-image{
-	width: 100px;
-	height: 100px;
-	border-radius: 10px;
-}
-.project-link {
-	background-color:blue; 
-	color:pink;
-	border-radius:5px;
-	display:inline-block;
-}
-footer{
-	font-size: 14px;
+color: blue; 
+
 }
 
